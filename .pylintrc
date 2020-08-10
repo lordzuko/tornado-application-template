@@ -1,0 +1,6 @@
+[BASIC]
+good-names=
+    i,
+    e,
+    logger,
+disable= C0301
